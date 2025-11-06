@@ -32,6 +32,9 @@
 
 ---
 
+<img width="1581" height="757" alt="imagen" src="https://github.com/user-attachments/assets/5851290a-e865-44bb-bcde-c8ebb26e9a29" />
+
+
 # Models:
 
 ## Brain-construct
