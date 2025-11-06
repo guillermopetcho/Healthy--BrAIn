@@ -32,7 +32,8 @@
 
 ---
 
-<img width="1581" height="757" alt="imagen" src="https://github.com/user-attachments/assets/5851290a-e865-44bb-bcde-c8ebb26e9a29" />
+<img width="1660" height="755" alt="imagen" src="https://github.com/user-attachments/assets/b8d86491-11a3-4be5-8380-d0188b388f8f" />
+
 
 
 # Models:
