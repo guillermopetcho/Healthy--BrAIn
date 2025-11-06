@@ -29,3 +29,24 @@
 * **`requirements.txt`** (Lista de dependencias)
 * **`.gitignore`** (Archivos a ignorar por Git)
 
+
+---
+
+# Models:
+
+## Brain-construct
+
+## Brain-Segmentation-LCR
+## Brain-Segmentation-Matter
+
+## Brain-Anatomics-Plane
+
+## Brain-healthy
+
+## Brain-indicator
+### brain-Alzheimer
+### brain-Hemorrhage
+### brain-Tumor
+
+
+
