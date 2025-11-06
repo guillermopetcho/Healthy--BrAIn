@@ -38,19 +38,33 @@
 
 # Models:
 
-## Brain-construct
+## Brain-construct:
+
+Inteligencia artificial entrenada para reconstruir imagenes de cerebros en 3D.
+En el caso de contar con una unica imagen se procede al bloque de "Brain-Anatomics-Plane" para categorizar el plano anatomico del cerebro.
 
 ## Brain-Segmentation-LCR
+El modelo permite la segmentacion de LCR de cerebros en 3D & 2D
+
 ## Brain-Segmentation-Matter
+El modelo permite la segmentacion de materia: Gris - Blanca.
 
 ## Brain-Anatomics-Plane
+El siguiente modelo permite la clasificacion de los tres planos anatomicos de forma autonoma para el posterior analisis.
 
 ## Brain-healthy
+El modelo fue entrenado con mas de 480 cerebros sanos para la reconstruccion de cerebros sin ningun tipo de anomalia.
 
 ## Brain-indicator
-### brain-Alzheimer
-### brain-Hemorrhage
-### brain-Tumor
+El modelo cuenta con una estructura dual, donde permite a dos modelos el analisis solo de bloques tensoriales de las imagenes. Se activa cuando el modelo "Lost-Brain" dicta un mapa de error en una zona especifica, esto dicta una posicion exacta para que el modelo "Brain-indicador" reduzca las imagenes a bloques matematicos que son analizados por los modelos de "brain-Tumor-Alzheimer-Hemorrhage".
 
+
+
+### brain-Alzheimer
+Modelo de U-Net entrenado
+### brain-Hemorrhage
+Modelo de U-Net entrenado
+### brain-Tumor
+Modelo de U-Net entrenado
 
 
