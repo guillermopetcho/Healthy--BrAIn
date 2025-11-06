@@ -32,7 +32,7 @@
 
 ---
 
-<img width="1660" height="755" alt="imagen" src="https://github.com/user-attachments/assets/b8d86491-11a3-4be5-8380-d0188b388f8f" />
+<img width="1530" height="746" alt="imagen" src="https://github.com/user-attachments/assets/e0b410be-1794-4868-ba01-be7995d093c4" />
 
 
 
